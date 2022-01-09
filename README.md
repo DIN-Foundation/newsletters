@@ -2,7 +2,7 @@
 
 Here are they all rendered: https://din-foundation.github.io/newsletters/
 
-11-01-2021: [Newsletter](index-11-01-2021.html)    
+11-01-2022: [Newsletter](index-11-01-2022.html)    
 14-12-2021: [Newsletter](index-14-12-2021.html)    
 07-11-2021: [Newsletter](index-07-11-2021.html)    
 18-10-2021: [Newsletter](index-18-10-2021.html)    
