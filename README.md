@@ -2,10 +2,10 @@
 
 Here are they all rendered: https://din-foundation.github.io/newsletters/
 
-09-05-2022: [Newsletter](index-09-05-2022.html)
-18-04-2022: [Newsletter](index-18-04-2022.html)
-17-03-2022: [Newsletter](index-17-03-2022.html)
-08-02-2022: [Newsletter](index-08-02-2022.html)
+09-05-2022: [Newsletter](index-09-05-2022.html)    
+18-04-2022: [Newsletter](index-18-04-2022.html)    
+17-03-2022: [Newsletter](index-17-03-2022.html)    
+08-02-2022: [Newsletter](index-08-02-2022.html)    
 11-01-2022: [Newsletter](index-11-01-2022.html)    
 14-12-2021: [Newsletter](index-14-12-2021.html)    
 07-11-2021: [Newsletter](index-07-11-2021.html)    
